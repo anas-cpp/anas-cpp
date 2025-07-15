@@ -1,4 +1,4 @@
-[![MasterHead](https://files.catbox.moe/g6x5ln.png)]
+![MasterHead](https://files.catbox.moe/g6x5ln.png)
 <h1 align="center">Hi 👋, I'm Anas Hussain</h1>
 <h3 align="center">A Passionate Front-End & Back-End Developer From Pakistan.</h3>
 
