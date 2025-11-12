@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,firebase,bootstrap,cloud,mongodb,git,aws,c#" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,firebase,bootstrap,mongodb,git,aws,c#" />
   </a>
 </p>
 
@@ -39,10 +39,6 @@
 <a href="https://github.com/anas-cpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravghost&hide_progress=true&show_icons=true&hide=java&line_height=27&locale=en&count_private=true&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/anas-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravghost&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Gyanendra's GitHub Stats" />
-</a>
-
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32'></h2>
 
@@ -53,5 +49,5 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <p align="left">
     <a href = 'https://x.com/anhuss90' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width = '40px' /></a> 
-    <a href = 'https://twitter.com/Gyanendrak874' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/intagram-original.svg" width = '40px' /></a> 
+    <a href = 'https://instgram.com/anass.cpp' target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width = '40px' /></a> 
 </p>
