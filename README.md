@@ -7,7 +7,7 @@
         
 ```
 <div>
-<p align="center"> HI! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"></p>
+<p align="center"> Hi! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"></p>
 <h1 align='center'>I'm Anas Hussain</h1>
 </div>
 
